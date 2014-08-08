@@ -1,0 +1,17 @@
+{
+    "name": "apis-declension",
+    "version": "0.1.0",
+    "author": {
+        "name": "Kristján Ingi Mikaelsson",
+        "email": "kristjanmik@gmail.com"
+    },
+    "description": "A wrapper around the declension module for the apis.is platform",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kristjanmik/apis-declension.git"
+    },
+    "dependencies": {
+        "declension": "~0.1.0",
+        "apis-parser": "~0.1.0"
+    }
+}
